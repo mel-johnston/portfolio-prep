@@ -189,6 +189,15 @@ h2 img {
 }
 
 
+.photo {
+background-image: url(../img/computer.png);
+/* background-size: cover; */
+background-repeat: repeat;
+height: 50vh;
+}
+
+
+
 /* ******* */
 
 span img:hover,
